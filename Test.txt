@@ -1,0 +1,7 @@
+Hello you there?
+<<<<<<< HEAD
+I added this second line.
+This is a new revision on 18-June.
+=======
+>>>>>>> parent of e7f9906... I modified Test.txt to add that second line.
+
